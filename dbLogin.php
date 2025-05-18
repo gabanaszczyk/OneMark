@@ -1,6 +1,6 @@
 <?php 
 
-    $host = "loc2alhost";
+    $host = "localhost";
     $db_user = "root";
     $db_pass = "admin123";
     $db_name = "OneMark";
